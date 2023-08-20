@@ -103,44 +103,44 @@ print("Result13 =", result_division_loss)
 item_3 = 32
 
 #  34. Прибавить 10 к item_3 с присвоением.
-item_3 = item_3 + 10
+item_3 += 10
 
 #  35. Вывести item_3 в консоль.
 print("Result14 =", item_3)
 
 #  36. Отнять 5 от item_3 с присвоением.
-item_3 = item_3 - 5
+item_3 -= 5
 
 #  37. Вывести item_3 в консоль.
 print("Result15 =", item_3)
 
 #  38. Умножить item_3 на 3 с присвоением.
-item_3 = item_3 * 3
+item_3 *= 3
 
 #  39. Вывести item_3 в консоль.
 print("Result16 =", item_3)
 
 #  40. Разделить item_3 на 2 с присвоением.
-item_3 = item_3 / 2
+item_3 /= 2
 
 #  41. Вывести item_3 в консоль.
 print("Result17 =", item_3)
 
 #  42. Возвести в степень 2 item_3 с присвоением.
-item_3 = item_3 ** 2
+item_3 **= 2
 
 #  43. Вывести item_3 в консоль.
 print("Result18 =", item_3)
 
 #  44. Найти квадратный корень item_3 с присвоением.
 
-item_3 = item_3 ** 0.5
+item_3 **= 0.5
 
 #  45. Вывести item_3 в консоль.
 print("Result19 =", item_3)
 
 #  46. Присвоить остаток от деления item_3
-item_3 = item_3 % 2
+item_3 %= 2
 
 #  47. Вывести item_3 в консоль.
 print("Result20 =", item_3)
